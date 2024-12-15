@@ -193,6 +193,6 @@ Here are some ways to improve the classifier:
 - **Use more features**: Use **TF-IDF Vectorizer** instead of **HashingVectorizer** for better feature representation.
 
 
-
+Check out the full article for a detailed explanation of the project and the steps involved on Medium: https://medium.com/@mraza1/introduction-52b3d6598d38
 
 
