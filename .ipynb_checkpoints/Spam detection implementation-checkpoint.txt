@@ -1,0 +1,11 @@
+Step 1- Write codes to load the dataset from "spamassassin-public-corpus" folder including two subfolders "ham" and "spam" related to ham and spam emails.
+
+Step 2- Load spam emails and assign label 0 to them; Load ham emails and assign label 1 to them.
+
+Step 3- First, create two empty lists for email contents and labels; then fill them out with emails content (ham and spams emails content) and the emails labels, respectively. In this way, you have two lists with all emails contents and their labels (0 or 1).
+
+Step 4- Write codes to perform a train-test-split (80%-20%) to create your train and test datasets using the two lists in step 3.
+
+Step 5- Write codes to instantiate and train a DecisionTreeClassifier, integrated with "HashingVectorizer" and "TfidfTransformer"
+
+Step 6- Evaluate your model using test dataset and show your model accuracy. Also, generate the confusion matrix.
